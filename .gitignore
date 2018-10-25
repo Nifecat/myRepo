@@ -1,1 +1,4 @@
 src\main\webapp\picture\*
+/src/main/webapp/picture/
+target/generated-sources/
+target/generated-test-sources/
